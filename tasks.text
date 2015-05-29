@@ -1,0 +1,32 @@
+Mole Map Task List
+
+Gui Layout
+-Volume Button
+--Initial Size should be same across the board
+--Font should fit based on the size of the number
+-- section should be centered horizontally not vertically
+-- Label should be half the size of the box that contains the numerical value
+-- Section should be directly above the moles button
+-Grams button
+-- Size should be slightly smaller than all other buttons to make space for currElement Button
+-- Font should fit based on size of number
+-- Label should be half the size of the box that contains the numerical value
+-- Section should be well to the left of the moles button and nearly touching currElement Update button
+-Moles Button
+-- Should match the size of volume and atoms button
+-- Label should be half the size of the box that contains the numerical value
+-- section should be horizontally centered
+--Font should fit based on size of the number
+-- Section should be directly below volume button
+-atoms button
+-- Should match size of Volume and Atoms button
+--should be directly right of the moles button
+-- Font should match size of number
+-- Label should be half the size of the num erical value box
+-CurrElement Update button
+-- fits between the grams and moles button
+-- Should be small but large enough to display the atomic number of the current element
+-CurrElement Display 
+-- fits top right of the screen
+-- should fit comfortably in that area of the screen
+-- should display name, atomic mass, atomic number
