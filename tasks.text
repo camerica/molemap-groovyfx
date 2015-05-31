@@ -1,5 +1,13 @@
 Mole Map Task List
 
+
+To Do with dad:
+1. Remove .gradle from git
+2. add source to git
+3. commit source to git
+4. create a github repo
+5. push local repo to github
+6. 
 Gui Layout
 -Volume Button
 --Initial Size should be same across the board
@@ -30,3 +38,6 @@ Gui Layout
 -- fits top right of the screen
 -- should fit comfortably in that area of the screen
 -- should display name, atomic mass, atomic number
+
+
+*Place formula box creation into different methods. Place each formula box on a panel. 
